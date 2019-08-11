@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    text-shadow: 0 0 10px blanchedalmond;
+    font-family: "Comic Sans MS";
+    font-size: 25px;
+    background-color: aqua;
+    background: linear-gradient(45deg,red,blue,red);
+    }
+h1{
+    background-color: brown;
+    color: yellow;
+}
+table{
+    color: darkolivegreen;
+    margin: auto;
+    width: 100%;
+}
+td{
+    color:whitesmoke;
+}
